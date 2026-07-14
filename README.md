@@ -89,13 +89,13 @@ Additional findings:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Delhi-AQI-Prediction-with-Machine-Learning.git
+git clone https://github.com/alankarms/Delhi-AQI-Prediction-ML_GEE.git
 ```
 
 2. Navigate to the project folder
 
 ```bash
-cd Delhi-AQI-Prediction-with-Machine-Learning
+cd Delhi-AQI-Prediction-ML-GEE
 ```
 
 3. Create and activate a virtual environment (optional)
@@ -139,7 +139,7 @@ jupyter notebook
 The complete dissertation report is included in this repository:
 
 ```
-report/COMM514_740064278_Report.pdf
+Delhi_AQI_Prediction_ML_GEE_Report.pdf
 ```
 
 ---
