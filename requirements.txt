@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+xgboost
+lightgbm
+jupyter
+notebook
+earthengine-api
+geemap
+joblib
+tqdm
